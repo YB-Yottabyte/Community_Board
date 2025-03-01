@@ -30,7 +30,7 @@ GIF created with GIPHY
 
 ## Notes
 
-While building the app, a few challenges were faced. Parsing JSON data and displaying it on the page needed careful debugging. Updating content with filtering functions required avoiding duplicate elements. Formatting numbers and calculating totals with `reduce()` had to be done correctly. Sorting games and showing the top ones needed precise logic. These issues were solved with testing and small adjustments.
+The community board includes a user manual for all programming languages, built with React and JavaScript. Challenges included correctly defining props, avoiding duplicate elements, formatting numbers, and sorting events with precise logic. These issues were solved with testing and small adjustments.
 
 ## License
 
