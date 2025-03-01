@@ -5,7 +5,7 @@ Submitted by: **Sai Rithwik Kukunuri**
 
 You can view the project live here: [Sea Monster Website](https://yb-yottabyte.github.io/web102_prework/)
 
-Time spent: **4** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
