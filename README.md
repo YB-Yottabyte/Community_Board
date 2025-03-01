@@ -23,7 +23,7 @@ The following **required features** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![via GIPHY](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm91MHNoY20zeWQ5eWw3YWV1eDVpd2EwNmxieHlncmd4ODBtM3o4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9cMUUYFQRw7Xx9cwkL/giphy.gif)
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm91MHNoY20zeWQ5eWw3YWV1eDVpd2EwNmxieHlncmd4ODBtM3o4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9cMUUYFQRw7Xx9cwkL/giphy.gif
 
 GIF created with GIPHY
 
