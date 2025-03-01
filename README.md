@@ -1,7 +1,7 @@
 # Community_Board
 Submitted by: **Sai Rithwik Kukunuri**
 
-For this **Community Board**, I have created an resources of user manual for various programming langauges. The board should have a unique purpose, such as links to help users learn more about software engineering. On each card of your community board, you should display some information about the resource.
+For this **Community Board**, I have created an resources of user manual for various programming langauges. The board should have a unique purpose, such as links to help users learn more about software engineering. On each card of your community board, I have displayed some information about the resource.
 
 Time spent: **2** hours spent in total
 
