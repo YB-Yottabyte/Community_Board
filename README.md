@@ -1,32 +1,29 @@
 # Community_Board
 Submitted by: **Sai Rithwik Kukunuri**
 
-**Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
-
-You can view the project live here: [Sea Monster Website](https://yb-yottabyte.github.io/web102_prework/)
+For this **Community Board**, I have created an resources of user manual for various programming langauges. The board should have a unique purpose, such as links to help users learn more about software engineering. On each card of your community board, you should display some information about the resource.
 
 Time spent: **2** hours spent in total
 
 ## Required Features
 
-The following **required** functionality is completed:
+The following functionality **goals** have been completed.
 
-- [x] The introduction section explains the background of the company and how many games remain unfunded.
-- [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-- [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding.
-- [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+- [x] Initialize a new React application with Vite.
+- [x] Create a functional React component.
+- [x] Define and pass props to components.
+- [x] Apply CSS styling to React components.
 
-The following **optional** features are implemented:
+The following **required features** features are implemented:
 
-- [x] Dark mode is implemented, allowing users to toggle between light and dark themes for better accessibility.
-- [x] A search bar is included, enabling users to quickly find games based on title or other criteria.
-- [x] The pledges and goals have been added to each game, showing the current pledged amount and the goal to be reached for funding.
+- [x] Create a unique theme for events or resources relevant to a specific community.
+- [x] Display at least 10 unique resources or events in a responsive card format.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-[![via GIPHY](https://media.giphy.com/media/241OQcdjUIGLNLkqZr/giphy.gif)](https://giphy.com/gifs/241OQcdjUIGLNLkqZr)
+[![via GIPHY](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm91MHNoY20zeWQ5eWw3YWV1eDVpd2EwNmxieHlncmd4ODBtM3o4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9cMUUYFQRw7Xx9cwkL/giphy.gif)
 
 GIF created with GIPHY
 
