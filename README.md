@@ -5,6 +5,8 @@ For this **Community Board**, I have created an resources of user manual for var
 
 Time spent: **2** hours spent in total
 
+You can view the project live here: community-board-alpha.vercel.app
+
 ## Required Features
 
 The following functionality **goals** have been completed.
